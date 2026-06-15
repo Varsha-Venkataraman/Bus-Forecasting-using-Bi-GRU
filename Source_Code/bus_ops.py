@@ -1,5 +1,4 @@
 from db_utils import sql_connect, sql_disconnect
-
 #------- INSERT -------
 def insert_bus(para):
     conn, cursor = sql_connect()
