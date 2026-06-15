@@ -1,4 +1,4 @@
-# Bus Ridership Forecasting Using Bidirectional GRU
+#### Bus Ridership Forecasting Using Bidirectional GRU
 
 ## Overview
 This project combines a deep learning framework for bus ridership forecasting with a management system to handle drivers and buses. The forecasting component uses a Bidirectional GRU (Bi‑GRU) model trained on a 28‑day historical lookback window to predict daily demand, helping improve scheduling, fleet allocation, and operational efficiency. The management system complements this by providing structured modules to manage bus and driver information, ensuring the solution is practical and applicable in real-world transit operations.
